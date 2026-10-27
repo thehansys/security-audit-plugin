@@ -1,0 +1,16 @@
+{
+  "name": "security-audit-plugin",
+  "version": "0.1.0",
+  "description": "Source-first security audits, pen-test-style vulnerability hunting, and bug hunting for codebases, with continuous tracking of findings.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehansys/security-audit-plugin.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "audit",
+    "code-review",
+    "vulnerability"
+  ]
+}
